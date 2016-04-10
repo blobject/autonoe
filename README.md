@@ -1,6 +1,5 @@
 # autonoe
 
-[mail]: mailto:agaric@protonmail.com
 [agave]: https://github.com/agarick/agave
 [ff]: https://fontforge.github.io
 [gbdfed]: http://www.math.nmsu.edu/~mleisher/Software/gbdfed/
@@ -39,4 +38,4 @@ Furthermore, the font ...:
 
 ## contact
 
-Please direct all your questions and comments to [*type agaric*][mail] by email.
+Please email your questions and comments to *type agaric* at `agaric@protonmail.com`.
