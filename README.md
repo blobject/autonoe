@@ -13,11 +13,11 @@
 
 ## about
 
-*autonoe* ...:
+*autonoe* is a fixed-width, 7x14, bold-only, unicode, bitmap typeface.
 
-* Is a fixed-width, 7x14, bold-only, unicode, bitmap typeface.
-* Has an [MIT X license][license].
-* Is in version 3.
+Furthermore, the font ...:
+
+* Is under the [MIT X license][license].
 * Has an [xlfd][xlfd] of `-agaric-autonoe-bold-r-normal--14-100-96-96-m-70-iso10646-1`.
 * Is basically *fixed-7x14b* with a few modifications.
 * Primarily targets shell use.
@@ -39,4 +39,4 @@
 
 ## contact
 
-Please direct all your questions and comments to [*type agaric*][[mail] by email.
+Please direct all your questions and comments to [*type agaric*][mail] by email.
