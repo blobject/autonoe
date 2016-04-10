@@ -5,10 +5,17 @@
 [gbdfed]: http://www.math.nmsu.edu/~mleisher/Software/gbdfed/
 [license]: https://github.com/agarick/autonoe/blob/master/LICENSE
 [xlfd]: http://en.wikipedia.org/wiki/X_logical_font_description
+[xorg]: http://www.x.org/wiki/
 
 ## get
 
+### download
+
 * [autonoe, version 003](https://github.com/agarick/autonoe/raw/master/autonoe-003.tar.gz)
+
+### files
+
+The download link gets you a tarballed *autonoe*. It contains a `.bdf`, a `.sfd`, and a `.pcf.gz` file. The first two are "source" files that you can modify and compile to your liking. The last is the actual font file that you'll want to install, assuming you're in an [X.Org][xorg] environment.
 
 ## about
 
