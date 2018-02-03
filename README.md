@@ -1,12 +1,5 @@
 # autonoe
 
-[agave]: https://github.com/agarick/agave
-[ff]: https://fontforge.github.io
-[gbdfed]: http://www.math.nmsu.edu/~mleisher/Software/gbdfed/
-[license]: https://raw.githubusercontent.com/agarick/autonoe/master/license.txt
-[xlfd]: http://en.wikipedia.org/wiki/X_logical_font_description
-[xorg]: http://www.x.org/wiki/
-
 ### get
 
 **download**
@@ -15,7 +8,7 @@
 
 **files**
 
-The download link gets you a tarballed *autonoe*. It contains a `.bdf`, a `.sfd`, and a `.pcf.gz` file. The first two are "source" files that you can modify and compile to your liking. The last is the actual font file that you'll want to install, assuming you're in an [X.Org][xorg] environment.
+The download link gets you a tarballed *autonoe*. It contains a `.bdf`, a `.sfd`, and a `.pcf.gz` file. The first two are "source" files that you can modify and compile to your liking. The last is the actual font file that you'll want to install, assuming you're in an [X.Org](http://www.x.org/wiki/) environment.
 
 ### about
 
@@ -23,11 +16,11 @@ The download link gets you a tarballed *autonoe*. It contains a `.bdf`, a `.sfd`
 
 Furthermore, the font ...:
 
-* Is under the [MIT license][license].
-* Has an [xlfd][xlfd] of `-agaric-autonoe-bold-r-normal--14-100-96-96-m-70-iso10646-1`.
-* Is basically *fixed-7x14b* with a few modifications.
+* Is under the [MIT license](https://raw.githubusercontent.com/agarick/autonoe/master/LICENSE).
+* Has an [xlfd](http://en.wikipedia.org/wiki/X_logical_font_description) of `-agaric-autonoe-bold-r-normal--14-100-96-96-m-70-iso10646-1`.
+* Is basically [*fixed-7x14b*](https://en.wikipedia.org/wiki/Fixed_%28typeface%29) with a few modifications.
 * Primarily targets shell use.
-* Is named after the Bacchic mythological character, whose sister, Agave, happens to share a name with [a font I started designing earlier][agave]. Besides the name, there is no relation between the two fonts. I like superficial coherence, that's all.
+* Is named after the Bacchic mythological character, whose sister, Agave, happens to share a name with [a font I started designing earlier](https://github.com/agarick/agave). Besides the name, there is no relation between the two fonts. I like superficial coherence, that's all.
 
 ### preview
 
@@ -41,7 +34,7 @@ Furthermore, the font ...:
 
 ### thanks
 
-... to the persons behind [FontForge][ff] and [gbdfed][gbdfed] for making this project possible.
+... to the persons behind [FontForge](https://fontforge.github.io) and [gbdfed](http://www.math.nmsu.edu/~mleisher/Software/gbdfed/) for making this project possible.
 
 ### contact
 
