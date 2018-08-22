@@ -1,0 +1,37 @@
+* autonoe
+
+*** get
+
+- download :: [[https://github.com/agarick/autonoe/raw/master/dist/autonoe-003.tar.gz][autonoe, version 003]]
+
+- files :: The download link gets you a tarballed /autonoe/. It contains a =.bdf=, a =.sfd=, and a =.pcf.gz= file. The first two are "source" files that you can modify and compile to your liking. The last is the actual font file that you'll want to install, assuming you're in an [[http://www.x.org/wiki/][X.Org]] environment.
+
+*** about
+
+/autonoe/ is a fixed-width, 7x14, bold-only, unicode, bitmap typeface.
+
+Furthermore, the font ...:
+
+- Is under the [[https://raw.githubusercontent.com/agarick/autonoe/master/LICENSE][MIT license]].
+- Has an [[http://en.wikipedia.org/wiki/X_logical_font_description][xlfd]] of =-agaric-autonoe-bold-r-normal--14-100-96-96-m-70-iso10646-1=.
+- Is basically /[[https://en.wikipedia.org/wiki/Fixed_%28typeface%29][fixed-7x14b]]/ with a few modifications.
+- Primarily targets shell use.
+- Is named after the Bacchic mythological character, whose sister, Agave, happens to share a name with [[https://github.com/agarick/agave][a font I started designing earlier]]. Besides the name, there is no relation between the two fonts. I like superficial coherence, that's all.
+
+*** preview
+
+*xterm*, sampling =uname= and =lua=:
+
+[[https://raw.githubusercontent.com/agarick/autonoe/master/sample/xterm.png]]
+
+*glyph distinction*, in ASCII:
+
+[[https://raw.githubusercontent.com/agarick/autonoe/master/sample/ascii.png]]
+
+*** thanks
+
+... to the persons behind [[https://fontforge.github.io][FontForge]] and [[http://www.math.nmsu.edu/~mleisher/Software/gbdfed/][gbdfed]] for making this project possible.
+
+*** contact
+
+Reach out to /type agaric/ at =agaric@protonmail.com=.
